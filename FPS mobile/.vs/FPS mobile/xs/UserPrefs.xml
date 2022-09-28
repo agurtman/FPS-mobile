@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{5378D923-A1C5-CBCD-C148-087F8771AB46}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Predator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bullet.cs" Line="32" Column="10" />
+      <File FileName="Assets/Scripts/CarMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CarSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DeadZone.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GunSwitcher.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NPC.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/OpenDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Pistol.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerLook.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Predator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RedBarrel.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Rifle.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SceneSwitch.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Shop.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Sound.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FPS mobile" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Predator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="09c4da95-45b4-44d9-a725-4a7a51025875" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
